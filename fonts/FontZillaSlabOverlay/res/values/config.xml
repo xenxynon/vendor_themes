@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-    Copyright (C) 2021 Paranoid Android
     Copyright (C) 2025 YAAP
 
     Licensed under the Apache License, Version 2.0 (the "License");
@@ -16,8 +15,8 @@
     limitations under the License.
 -->
 <resources>
-    <string name="config_bodyFontFamily" translatable="false">manrope</string>
-    <string name="config_bodyFontFamilyMedium" translatable="false">manrope-medium</string>
-    <string name="config_headlineFontFamily" translatable="false">manrope</string>
-    <string name="config_headlineFontFamilyMedium" translatable="false">manrope-medium</string>
+    <string name="config_bodyFontFamily" translatable="false">zilla-slab</string>
+    <string name="config_bodyFontFamilyMedium" translatable="false">zilla-slab-medium</string>
+    <string name="config_headlineFontFamily" translatable="false">zilla-slab</string>
+    <string name="config_headlineFontFamilyMedium" translatable="false">zilla-slab-medium</string>
 </resources>

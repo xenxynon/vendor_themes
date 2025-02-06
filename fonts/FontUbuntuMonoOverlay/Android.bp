@@ -15,7 +15,7 @@
 //
 
 runtime_resource_overlay {
-    name: "FontRobotoOverlay",
-    theme: "FontRoboto",
+    name: "FontUbuntuMonoOverlay",
+    theme: "FontUbuntuMono",
     product_specific: true,
 }

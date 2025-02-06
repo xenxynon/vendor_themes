@@ -16,8 +16,8 @@
     limitations under the License.
 -->
 <resources>
-    <string name="config_bodyFontFamily" translatable="false">manrope</string>
-    <string name="config_bodyFontFamilyMedium" translatable="false">manrope-medium</string>
-    <string name="config_headlineFontFamily" translatable="false">manrope</string>
-    <string name="config_headlineFontFamilyMedium" translatable="false">manrope-medium</string>
+    <string name="config_bodyFontFamily" translatable="false">harmonyos-sans</string>
+    <string name="config_bodyFontFamilyMedium" translatable="false">harmonyos-sans-medium</string>
+    <string name="config_headlineFontFamily" translatable="false">harmonyos-sans</string>
+    <string name="config_headlineFontFamilyMedium" translatable="false">harmonyos-sans-medium</string>
 </resources>

@@ -15,7 +15,7 @@
 //
 
 runtime_resource_overlay {
-    name: "FontRobotoOverlay",
-    theme: "FontRoboto",
+    name: "FontSlateFromOPOverlay",
+    theme: "FontSlateFromOP",
     product_specific: true,
 }

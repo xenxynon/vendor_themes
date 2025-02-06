@@ -15,7 +15,7 @@
 //
 
 runtime_resource_overlay {
-    name: "FontRobotoOverlay",
-    theme: "FontRoboto",
+    name: "FontLustriaOverlay",
+    theme: "FontLustria",
     product_specific: true,
 }

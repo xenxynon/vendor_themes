@@ -15,7 +15,7 @@
 //
 
 runtime_resource_overlay {
-    name: "FontRobotoOverlay",
-    theme: "FontRoboto",
+    name: "FontKarlaOverlay",
+    theme: "FontKarla",
     product_specific: true,
 }
