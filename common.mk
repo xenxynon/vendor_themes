@@ -20,6 +20,7 @@ PRODUCT_PACKAGES += \
     FontInterOverlay \
     FontLinotteOverlay \
     FontManropeOverlay \
+    FontN82Overlay \
     FontOnePlusSansOverlay \
     FontSlateFromOPOverlay \
     FontUbuntuMonoOverlay
